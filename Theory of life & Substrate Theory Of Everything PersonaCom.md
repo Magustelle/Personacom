@@ -278,7 +278,7 @@ Canonical license URL: [insert stable URL]
 Commercial licensing contact: Pending — do not publish this notice as complete until a monitored contact method is supplied
 Third-party notices: [path to THIRD-PARTY-NOTICES file or equivalent]
 
-Copyright © [2026] [darrell lee stiltner ].  © 2026 Analisjohnsmith
+Copyright © [2026] [darrell lee stiltner ].  © 2026 Magustelle
 
 All rights reserved except for the permissions expressly granted by the applicable license.  
 Public use is limited to Noncommercial Purposes under the license terms.  
