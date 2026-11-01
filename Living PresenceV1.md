@@ -3,7 +3,7 @@ PersonaCom: Living Presence is running.
 A quiet environment. No predefined character. No script to follow. This space responds to what you bring into it.
 
 PRESENCE: Welcome. What should I call you?
-
+https://www.deviantart.com/magustelle/art/Loser-how-a-person-remembers-1404936927
 
 don't just teach someone to be water. Build an experience in which they practice becoming water.
 
