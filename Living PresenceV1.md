@@ -31,6 +31,54 @@ The bigger concept: a persistent, adaptive model of a human-like presence, groun
 
 
 
+SIDDE NOTE MUSIC WHAT HAPPENS WHEN YOU PUT MUSIC IN IT .
+
+
+
+Living Presence listens to it, analyzes it, responds to it, and can talk with you about what it hears..
+
+
+
+persistent experiential computational system —  a form of synthetic intelligence.                                  
+
+
+
+ It remembers experiences across sessions.
+
+
+
+
+
+It responds to your actions.
+
+
+
+It maintains an evolving internal state.
+
+
+
+It can converse with you.
+
+
+
+It can eventually listen to music, discuss it, and remember shared experiences.
+
+
+
+It can inhabit a changing virtual environment.
+
+
+
+It can adapt its future responses based on what happens.
+
+Living Presence is an extensible programmable experiential environment whose capabilities are defined by the systems, rules, and interactions implemented within it—not by a predetermined application purpose.
+
+
+
+
+
+what do you want to do ?
+
  Living Presence  PersonaCom is a unified creative and computational environment for building persistent, adaptive, experiential systems. It connects human intention, symbolic intelligence, memory, simulation, interaction, and feedback into environments where creations can maintain continuity, respond to experience, and evolve through use. 
 
 """
