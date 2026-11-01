@@ -5,7 +5,33 @@ A quiet environment. No predefined character. No script to follow. This space re
 PRESENCE: Welcome. What should I call you?
 
 
+don't just teach someone to be water. Build an experience in which they practice becoming water.
 
+
+
+Hazeru Living Presence is a computational model of human experience and adaptive interaction.
+
+It brings together:
+
+Human behavior — actions and responses.
+
+Psychological states — mood, fatigue, presence and clarity.
+
+Memory — continuity across interactions.
+
+Adaptation — changing behavior based on experience.
+
+Mind–body interaction — connecting physical actions with internal states.
+
+Social interaction — dialogue and relationship development.
+
+Philosophy — translating Bruce Lee's principles into executable behavior.
+
+The bigger concept: a persistent, adaptive model of a human-like presence, grounded in mathematics, computation, psychology, embodied cognition and philosophy.
+
+
+
+ Living Presence  PersonaCom is a unified creative and computational environment for building persistent, adaptive, experiential systems. It connects human intention, symbolic intelligence, memory, simulation, interaction, and feedback into environments where creations can maintain continuity, respond to experience, and evolve through use. 
 
 """
 PERSONACOM: LIVING PRESENCE
