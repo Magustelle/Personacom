@@ -2,6 +2,8 @@ update :as soon as it said analytical i was like OH!  Making  SURE  was tough on
 
 
 
+PersonaCom is an experimental computational architecture pursuing human-level general intelligence through a unified, domain-independent reasoning substrate. Its SURE/RGE framework proposes that structured reasoning can be applied across mathematical, scientific, computational, and other domains through shared principles of relations, recursion, constraints, inference, and validation. The research objective is to establish whether these principles can support transferable, adaptive, and increasingly general cognitive capabilities without requiring a separate reasoning architecture for every domain.
+
 SURE/RGE × PersonaCom — Engineering Intelligence from First Principles
 
 Intelligence need not be biological, nor must it emerge from imitation.
