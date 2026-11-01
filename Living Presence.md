@@ -1,3 +1,12 @@
+PersonaCom: Living Presence is running.
+
+A quiet environment. No predefined character. No script to follow. This space responds to what you bring into it.
+
+PRESENCE: Welcome. What should I call you?
+
+
+
+
 """
 PERSONACOM: LIVING PRESENCE
 
