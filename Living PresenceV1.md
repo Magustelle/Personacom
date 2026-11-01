@@ -419,6 +419,40 @@ Important implementation distinction: This is a cleaned, standalone foundation, 
 
 The  Celebrity specific project has now been separated into a general-purpose PersonaCom concept.
 
+
+
+==========================
+
+
+Below is the corrected, complete `living_presence.py`, retaining the original six-subsystem architecture and incorporating the behavior shown in your first-version fragment.
+
+I have corrected the formatting and integrated the missing interaction logic: state updates, topic recording, question responses, uncertainty, and mood-responsive behavior. I have also kept the distinction between simulated internal state and actual human physiological or psychological measurements.
+
+```
+#!/usr/bin/env python3# -*- coding: utf-8 -*-"""PERSONACOM: LIVING PRESENCEHazeru Living PresenceA persistent, adaptive interactive environment.Author: Darrell Lee StiltnerVersion: 1.0.0Runtime: Python 3.7+Dependencies: Standard library onlyCORE SUBSYSTEMS    1. Memory    2. PresenceVoice    3. ActionSystem    4. WorldState    5. LivingPresence    6. Main RuntimeLICENSE    Great Scott License    Non-Commercial / Commercial Addendum RequiredCopyright (c) 2026 Darrell Lee Stiltner.All rights reserved.Non-commercial use is permitted under the Great Scott License.Commercial use requires separate authorization under theGreat Scott Commercial Addendum.NO WARRANTY    THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE",
+```
+
+## What was corrected
+
+- Restored valid Python imports, indentation, class definitions, and the main execution guard.
+- Restored the first-version `self.state` interface and its state-update behavior.
+- Added `Memory.record_topic()` and `topics_discussed`, matching the original interaction fragment.
+- Added `PresenceVoice.ask_question(after_response=True)` and `admit_uncertainty()`.
+- Connected mood detection, action execution, state updates, and memory recording.
+- Added safe JSON replacement when saving memory.
+- Preserved the six foundational subsystems.
+
+One important limitation: this is still a prototype. It has persistent memory and state-responsive behavior, but it does not yet learn new behavioral policies from experience. The water principle is currently a design direction, not an implemented adaptive learning mechanism.
+
+Save the code as `living_presence.py`. Run:
+
+```
+python -m py_compile living_presence.py
+python living_presence.py
+```
+
+
+
 NO WARRANTY
 
 THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
@@ -426,11 +460,4 @@ THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTIES 
 THE AUTHOR MAKES NO WARRANTY THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE, UNINTERRUPTED, ACCURATE, RELIABLE, OR SUITABLE FOR ANY PARTICULAR USE.
 
 THE ENTIRE RISK ARISING FROM THE USE OR PERFORMANCE OF THE SOFTWARE RESTS WITH THE USER. THE AUTHOR SHALL NOT BE RESPONSIBLE FOR ANY DAMAGES, DATA LOSS, SYSTEM FAILURE, OR OTHER CONSEQUENCES ARISING FROM ITS USE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
-
-
-
-
-
-
-
 
