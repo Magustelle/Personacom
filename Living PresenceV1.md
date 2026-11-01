@@ -7,7 +7,7 @@ PRESENCE: Welcome. What should I call you?
 
 don't just teach someone to be water. Build an experience in which they practice becoming water.
 
-
+PersonaCom has the beginnings of a general human-experience architecture. It is not a perfect human model, but it has a coherent direction toward one
 
 Hazeru Living Presence is a computational model of human experience and adaptive interaction.
 
