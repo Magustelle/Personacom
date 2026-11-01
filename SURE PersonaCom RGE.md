@@ -1,4 +1,4 @@
-as soon as it said analytical i was like OH!  Making  SURE  was tough on me. so this detail was missed .
+update :as soon as it said analytical i was like OH!  Making  SURE  was tough on me. so this detail was missed .
 
 
 
@@ -17,7 +17,9 @@ Its architecture establishes a foundation for intelligence that can be systemati
 The central proposition is profound: intelligence is not exclusively something nature produces. It is also something humanity may learn to engineer.The potentially historic contribution is not simply building another AI. It's demonstrating that human-comparable analytical reasoning can emerge from my  independently engineered mathematical system.
 
 
-
+======================================================================================================
+=============================================================================================================
+================================================================================================================
 
 
 SURE
