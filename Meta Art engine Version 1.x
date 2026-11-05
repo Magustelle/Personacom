@@ -6118,3 +6118,234 @@ if __name__ == "__main__":
 Project: [Personacom,Magustelle,VERSE, AN.KI, Hazeru,Hatsuseno] Version/release: [Version one] Rights holder/licensor: Darrell Lee Stiltner (confirmed ownership only) Covered Materials: [repository, directories, files, or assets covered; identify exclusions] License: GreatScott™ Ecosystem Public Noncommercial License, Version 5.0 (RC2; publication version/date to be finalized) Canonical license URL: [insert stable URL] Commercial licensing contact: Pending — do not publish this notice as complete until a monitored contact method is supplied Third-party notices: [path to THIRD-PARTY-NOTICES file or equivalent]
 
 Copyright © [2026] [darrell lee stiltner ]. © 2026 Magustelle
+
+
+
+Art tool v1:
+{
+  realityCompiler = ''
+\[
+\boxed{r=2+\sin(7\theta+2t)\cos(5\theta-3t)}
+\]
+
+\[
+\boxed{
+\frac{\partial\mathbf X}{\partial t}
+=
+\alpha\Delta_g\mathbf X
+-\beta\nabla V
++\gamma\mathbf F(\mathbf X,t)
++\delta\!\int_\Omega
+K(\mathbf x,\mathbf y)
+[
+\mathbf X(\mathbf y)-\mathbf X(\mathbf x)
+]
+\,d\mathbf y
+}
+\]
+
+\[
+\mathcal A(z,t)=
+\left|
+\sum_{k=1}^{N}
+a_k
+e^{
+-\frac{|W(z,t)-c_k|^2}{2\sigma_k^2}
++i\Theta_k(z,t)
+}
++
+\lambda
+\sum_{j=0}^{M}
+\rho^j
+f(q^j z)
+\right|^2
+\]
+
+\[
+\boxed{
+\begin{aligned}
+\mathfrak A(\mathbf x,t)
+={}&
+\mathscr R_{\mathcal M}
+\Bigg\{
+\sum_{k=1}^{N}
+a_k
+e^{-\frac{\|W(\mathbf x,t)-\mathbf c_k\|^2}{2\sigma_k^2}}
+e^{i[
+\omega_k t+\phi_k+
+\kappa_k\|W-\mathbf c_k\|^{p_k}
+]}
+\\[6pt]
+&
++\lambda
+\sum_{j=0}^{M}
+\rho^j
+\Big[
+\sin(q^j\mathbf k_j\!\cdot\!W+\nu_j t)
++i\cos(q^j\mathbf l_j\!\cdot\!W-\mu_j t)
+\Big]
+\\[6pt]
+&
++\eta
+\sum_{n=1}^{P}
+\frac{
+b_n e^{i n\arg(W-\mathbf z_n)}
+}{
+(\|W-\mathbf z_n\|^2+\varepsilon^2)^{s_n/2}
+}
+\\[6pt]
+&
++\xi
+\int_\Omega
+K(\mathbf x,\mathbf y)
+[
+\Psi(\mathbf y,t)-\Psi(\mathbf x,t)
+]
+\,d\mathbf y
+\\[6pt]
+&
++\zeta
+\sum_{m=1}^{Q}
+d_m e^{-\alpha_m t}
+\cos(
+\mathbf h_m\!\cdot\!\mathbf x
++\vartheta_m
++\beta_m\sin(\gamma_m t)
+)
+\\[6pt]
+&
++\chi
+[
+u(\mathbf x,t)-v(\mathbf x,t)
++i\,\nabla\times\mathbf U(\mathbf x,t)
+]
+\\[6pt]
+&
++\upsilon
+\sum_{\ell=0}^{L}
+2^{-\ell H}
+f_\ell(2^\ell W,t)
+\Bigg\},
+\\[12pt]
+W(\mathbf x,t)
+={}&
+\mathbf x
++
+\sum_{r=1}^{R}
+A_r
+\sin(
+\mathbf q_r\!\cdot\!\mathbf x
+-\Omega_r t
++\delta_r
+)
++
+\tau\mathbf U(\mathbf x,t),
+\\[10pt]
+\frac{\partial u}{\partial t}
+={}&
+D_u\Delta u
+-uv^2
++F(1-u),
+\\
+\frac{\partial v}{\partial t}
+={}&
+D_v\Delta v
++uv^2
+-(F+k)v,
+\\[10pt]
+\frac{\partial\mathbf U}{\partial t}
++
+(\mathbf U\!\cdot\!\nabla)\mathbf U
+={}&
+-\nabla p
++\nu\Delta\mathbf U
++\mathbf f_{\mathrm{ext}},
+\qquad
+\nabla\!\cdot\!\mathbf U=0,
+\\[10pt]
+\Psi(\mathbf x,t)
+={}&
+\Psi_0(\mathbf x)
++
+\int_0^t
+\mathcal N[
+\Psi,u,v,\mathbf U
+](\mathbf x,s)\,ds,
+\\[10pt]
+\mathbf X(\theta,\varphi,t)
+={}&
+r(\theta,\varphi,t)
+\begin{pmatrix}
+\sin\varphi\cos\theta\\
+\sin\varphi\sin\theta\\
+\cos\varphi
+\end{pmatrix},
+\\[8pt]
+r(\theta,\varphi,t)
+={}&
+r_0
++
+a|\mathfrak A|^\gamma
++
+b\sin(n\theta+\arg\Psi)
++
+c\cos(m\varphi+\omega t),
+\\[10pt]
+\mathbf n
+={}&
+\frac{
+\partial_\theta\mathbf X
+\times
+\partial_\varphi\mathbf X
+}{
+\|
+\partial_\theta\mathbf X
+\times
+\partial_\varphi\mathbf X
+\|
+},
+\\[10pt]
+\mathcal C(\mathbf x,t)
+={}&
+\operatorname{HSVtoRGB}
+\left(
+\frac{\arg\Psi+\pi}{2\pi},
+S_0+\alpha_S|\nabla\Psi|,
+\frac{|\Psi|^\gamma}{1+|\Psi|^\gamma}
+\right),
+\\[10pt]
+\mathcal L(\mathbf x,t)
+={}&
+k_a\mathbf C_a
++
+k_d\mathcal C
+\max(0,\mathbf n\!\cdot\!\mathbf l)
++
+k_s
+\max(0,\mathbf r\!\cdot\!\mathbf v)^{p_s}
+\\
+&
++\int_\Omega
+E(\mathbf y,t)
+G(\mathbf x,\mathbf y)
+\,d\mathbf y,
+\\[10pt]
+\boxed{
+\mathcal I_{\mathrm{final}}
+=
+\mathcal T
+\Big[
+\mathcal L(\mathbf x,t)
++
+\mathcal B(
+|\Psi|^2,
+\arg\Psi,
+\nabla\Psi
+)
+\Big]
+}
+\end{aligned}
+}
+\]
+'';
+}
